@@ -10,6 +10,9 @@ body {
     justify-content: center;
     font-family: "Outfit";
 }
+h1 {
+    font-weight: 700;
+}
 .qr_card {
     background-color: hsl(0, 0%, 100%);
     width: 50%;
@@ -26,4 +29,5 @@ body {
 
 p {
     color: hsl(220,9.43%,68.82%);
+    font-size: 15px;
 }
